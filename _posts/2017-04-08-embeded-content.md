@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Embeded content"
+title:  "Embedded content"
 date:   2017-04-08 19:09:48 +0100
 tags: 
     - wntv
