@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Home
+title: Domů
 ---
 
-# Hello World! (It works!)
+# Vítejte
 
-Welcome
+v Najt Vejl
 
 ## Posty
-
-See:
 
 <ul>
   {% for post in site.posts %}
@@ -19,7 +17,7 @@ See:
   {% endfor %}
 </ul>
 
-## Pages
+## Stránky
 
 <ul>
   {% for page in site.pages %}

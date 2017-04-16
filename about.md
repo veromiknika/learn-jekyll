@@ -1,10 +1,27 @@
 ---
 layout: page
-title: About
+title: O projektu
 ---
 
-This is a minimal [Learn-Jekyll.js](https://github.com/jan-martinek/learn-jekyll) website.
+Cílovou skupinu či skupiny (buďte konkrétní — „kdokoli“ a podobné definice jsou nepřípustné)
 
-It is not meant to replace Jekyll — it just mimics some of its functionality. It might be useful for those who do not want to install Ruby & Jekyll on their computer.
 
-To use it, you need to keep a two-level file structure and describe it in `mock/structure.yml`. Learn more about it in its [Github repo](https://github.com/jan-martinek/learn-jekyll).
+Cíl webu (alespoň 280 znaků)
+
+
+Název webu
+Seznam alespoň 5 zásadních webových zdrojů, které se věnují stejné oblasti
+
+
+Seznam alespoň 5 zásadních ne-webových zdrojů, které se věnují stejné oblasti
+
+Prozkoumejte dostupná multimédia (obrázky, videa atp.) a odkažte na ně
+
+
+Vizuální inspiraci pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)
+
+
+Základní obsah k tématu (alespoň 10 odrážek v logické struktuře)
+
+
+Strategii zveřejňování obsahu: jaké informace a jakým způsobem budete zveřejňovat?
