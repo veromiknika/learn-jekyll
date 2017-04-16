@@ -21,42 +21,42 @@ Jednotlivé příspěvky budou popisovat konkrétní epizodu, knihu, vystoupení
 
 ##### Struktura
 
-1. Představení projektu
-2. Autoři
-2.1. Joseph Fink
-2.2. Jeffrey Cranor
-3. Epizoda XX
-3.1. Datum  vydání
-3.2. Nahrávka
-3.3. Transkript
-3.4. Děj
-3.5. Hudební host
-4. Kniha XX
-4.1. Podrobné informace
-4.2. Anotace
+1. Představení projektu<br>
+2. Autoři<br>
+2.1. Joseph Fink<br>
+2.2. Jeffrey Cranor<br>
+3. Epizoda XX<br>
+3.1. Datum  vydání<br>
+3.2. Nahrávka<br>
+3.3. Transkript<br>
+3.4. Děj<br>
+3.5. Hudební host<br>
+4. Kniha XX<br>
+4.1. Podrobné informace<br>
+4.2. Anotace<br>
 
 ---
 ### WNTV
 
 #### Online
 
-[Oficiální web](http://www.welcometonightvale.com/)
-[Wikipedie](https://en.wikipedia.org/wiki/Welcome_to_Night_Vale)
-[Facebook](https://www.facebook.com/WelcomeToNightVale)
-[Twitter](https://twitter.com/NightValeRadio)
+[Oficiální web](http://www.welcometonightvale.com/)<br>
+[Wikipedie](https://en.wikipedia.org/wiki/Welcome_to_Night_Vale)<br>
+[Facebook](https://www.facebook.com/WelcomeToNightVale)<br>
+[Twitter](https://twitter.com/NightValeRadio)<br>
 [Tumblr](https://communitycalendar.tumblr.com/)
 
 #### Offline
 
-[Welcome to Night Vale: A Novel](https://www.goodreads.com/book/show/23129410-welcome-to-night-vale)
-[Mostly Void, Partially Stars: Welcome to Night Vale Episodes, Volume 1](https://www.goodreads.com/book/show/29634931-mostly-void-partially-stars)
-[The Great Glowing Coils of the Universe: Welcome to Night Vale Episodes, Volume 2](https://www.goodreads.com/book/show/29634930-the-great-glowing-coils-of-the-universe)
-[It Devours!: A Welcome to Night Vale Novel](https://www.goodreads.com/book/show/28208687-it-devours)
+[Welcome to Night Vale: A Novel](https://www.goodreads.com/book/show/23129410-welcome-to-night-vale)<br>
+[Mostly Void, Partially Stars: Welcome to Night Vale Episodes, Volume 1](https://www.goodreads.com/book/show/29634931-mostly-void-partially-stars)<br>
+[The Great Glowing Coils of the Universe: Welcome to Night Vale Episodes, Volume 2](https://www.goodreads.com/book/show/29634930-the-great-glowing-coils-of-the-universe)<br>
+[It Devours!: A Welcome to Night Vale Novel](https://www.goodreads.com/book/show/28208687-it-devours)<br>
 [Alice Isn't Dead, Part One](https://www.goodreads.com/book/show/33134321-alice-isn-t-dead-part-one)
 
 #### Další info
 
-[Welcome to Night Vale Soundcloud](https://soundcloud.com/nightvaleradio)
-[Welcome to Night Vale YouTube Channel](https://www.youtube.com/user/WelcometoNightVale)
-[Alice Isn't Dead Soundcloud](https://soundcloud.com/nightvaleradio/alice-isnt-dead-ep-1-omelet)
+[Welcome to Night Vale Soundcloud](https://soundcloud.com/nightvaleradio)<br>
+[Welcome to Night Vale YouTube Channel](https://www.youtube.com/user/WelcometoNightVale)<br>
+[Alice Isn't Dead Soundcloud](https://soundcloud.com/nightvaleradio/alice-isnt-dead-ep-1-omelet)<br>
 
