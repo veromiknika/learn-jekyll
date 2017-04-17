@@ -9,7 +9,7 @@ title: O projektu
 
 ### Naše cíle
 
-Cílem webu je vytvoření místa, kde si posluchači mohou najít všechno souvisejíci s podcastem *Welcome to Night Vale* — nahrávky, transkripty, knížky, fanArt či další informace. Ve spojení s krásnou výslovností Cecila Baldwina může stránka sloužit také jako místo na trénování angličtiny. Taky chceme představit pořad nováčkům. Web je určen každému, kdo je posluchačem pořadu, skalním fanouškům i náhodním posluchačům, kteří hledají něco nového.
+Cílem webu je vytvoření místa, kde si posluchači mohou najít všechno související s podcastem *Welcome to Night Vale* — nahrávky, transkripty, knížky, fanArt či další informace. Ve spojení s krásnou výslovností Cecila Baldwina může stránka sloužit také jako místo na trénování angličtiny. Taky chceme představit pořad nováčkům. Web je určen každému, kdo je posluchačem pořadu, skalním fanouškům i náhodným posluchačům, kteří hledají něco nového.
 
 ### Inspirace
 
@@ -17,7 +17,7 @@ Vzhled stránky je v duchu minimalismu. Inspirovali jsme se také ilustracemi a 
 
 ### Obsah 
 
-Jednotlivé příspěvky budou popisovat konkrétní epizodu, knihu, vystoupení nebo osobnost. Postupně se pokoušime zmapovat všechny oblasti týkající se WTNV. Příspěvky budou uverejňovány podle následnosti epizod. Předtím se představí projekt a jeho autoři. Vyskytnout se mohou také náhodné aktuality ze živých vystoupení.
+Jednotlivé příspěvky budou popisovat konkrétní epizodu, knihu, vystoupení nebo osobnost. Postupně se pokoušíme zmapovat všechny oblasti týkající se WTNV. Příspěvky budou uverejňovány podle následnosti epizod. Předtím se představí projekt a jeho autoři. Vyskytnout se mohou také náhodné aktuality ze živých vystoupení.
 
 #### Struktura
 
@@ -26,7 +26,7 @@ Jednotlivé příspěvky budou popisovat konkrétní epizodu, knihu, vystoupení
 2.1. Joseph Fink<br>
 2.2. Jeffrey Cranor<br>
 3. Epizoda XX<br>
-3.1. Datum  vydání<br>
+3.1. Datum vydání<br>
 3.2. Nahrávka<br>
 3.3. Transkript<br>
 3.4. Děj<br>
@@ -64,4 +64,4 @@ Jednotlivé příspěvky budou popisovat konkrétní epizodu, knihu, vystoupení
 [Tumblr WNTV Typography](http://wtnv-typography.tumblr.com/) <br>
 [Tumblr WNTV Community](http://night-vale-community.tumblr.com/) <br>
 [Wikia](http://nightvale.wikia.com/wiki/Welcome_to_Night_Vale_Wiki) <br>
-[Alice Isn'tDead Soundcloud](https://soundcloud.com/nightvaleradio/alice-isnt-dead-ep-1-omelet)<br>
+[Alice Isn't Dead Soundcloud](https://soundcloud.com/nightvaleradio/alice-isnt-dead-ep-1-omelet)<br>
