@@ -9,17 +9,17 @@ title: O projektu
 
 ### Naše cíle
 
-Cílem webu je vytvoření místa, kde si posluchači mohou najít všechno souvisejíci s podcastem *Welcome to Night Vale* — nahrávky, transkripty, knížky, fanArt či další informace. Ve spojení s krásnou výslovností Cecila Baldwina může stránka sloužit také jako místo na trénování angličtiny. Taky chceme předsatavit pořad nováčkům. Web je určen každému, kdo je posluchačem pořadu, skalním fanouškům i náhodním posluchačům, kteří hledají něco nového.
+Cílem webu je vytvoření místa, kde si posluchači mohou najít všechno souvisejíci s podcastem *Welcome to Night Vale* — nahrávky, transkripty, knížky, fanArt či další informace. Ve spojení s krásnou výslovností Cecila Baldwina může stránka sloužit také jako místo na trénování angličtiny. Taky chceme představit pořad nováčkům. Web je určen každému, kdo je posluchačem pořadu, skalním fanouškům i náhodním posluchačům, kteří hledají něco nového.
 
-#### Inspirace
+### Inspirace
 
 Vzhled stránky je v duchu minimalismu. Inspirovali jsme se také ilustracemi a barvami, které provazejí WTNV. Najdete je například na [DevianArt](http://www.deviantart.com/tag/wtnv?offset=0) či [Tumblr](https://www.tumblr.com/search/wtnv).
 
-#### Obsah 
+### Obsah 
 
 Jednotlivé příspěvky budou popisovat konkrétní epizodu, knihu, vystoupení nebo osobnost. Postupně se pokousime zmapovat všechny oblasti týkajíci se WTNV. Příspěvky budou uverejňovány postupně podle následnosti epizod. Předtím se představí projekt a jeho autoři. Vyskytnout se mohou také náhodné aktuality ze živých vystoupení.
 
-##### Struktura
+### Struktura
 
 1. Představení projektu<br>
 2. Autoři<br>
@@ -63,4 +63,5 @@ Jednotlivé příspěvky budou popisovat konkrétní epizodu, knihu, vystoupení
 
 [Tumblr WNTV Typography](http://wtnv-typography.tumblr.com/) <br>
 [Tumblr WNTV Community](http://night-vale-community.tumblr.com/) <br>
-[Alice Isn't Dead Soundcloud](https://soundcloud.com/nightvaleradio/alice-isnt-dead-ep-1-omelet)<br>
+[Wikia](http://nightvale.wikia.com/wiki/Welcome_to_Night_Vale_Wiki) <br>
+[Alice Isn'tDead Soundcloud](https://soundcloud.com/nightvaleradio/alice-isnt-dead-ep-1-omelet)<br>
