@@ -13,13 +13,13 @@ Cílem webu je vytvoření místa, kde si posluchači mohou najít všechno souv
 
 ### Inspirace
 
-Vzhled stránky je v duchu minimalismu. Inspirovali jsme se také ilustracemi a barvami, které provazejí WTNV. Najdete je například na [DevianArt](http://www.deviantart.com/tag/wtnv?offset=0) či [Tumblr](https://www.tumblr.com/search/wtnv).
+Vzhled stránky je v duchu minimalismu. Inspirovali jsme se také ilustracemi a barvami, které provazejí WTNV. Najdete je například na [DevianArt](http://www.deviantart.com/tag/wtnv?offset=0) nebo [Tumblr](https://www.tumblr.com/search/wtnv).
 
 ### Obsah 
 
-Jednotlivé příspěvky budou popisovat konkrétní epizodu, knihu, vystoupení nebo osobnost. Postupně se pokousime zmapovat všechny oblasti týkajíci se WTNV. Příspěvky budou uverejňovány postupně podle následnosti epizod. Předtím se představí projekt a jeho autoři. Vyskytnout se mohou také náhodné aktuality ze živých vystoupení.
+Jednotlivé příspěvky budou popisovat konkrétní epizodu, knihu, vystoupení nebo osobnost. Postupně se pokoušime zmapovat všechny oblasti týkající se WTNV. Příspěvky budou uverejňovány podle následnosti epizod. Předtím se představí projekt a jeho autoři. Vyskytnout se mohou také náhodné aktuality ze živých vystoupení.
 
-### Struktura
+#### Struktura
 
 1. Představení projektu<br>
 2. Autoři<br>
