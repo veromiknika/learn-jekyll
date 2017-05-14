@@ -45,15 +45,17 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-header, h1 {
-    float: right;
-}
+
 
 h1 {
   font-size: 30px;
+  header { 
+      color: #9a3b91;
+      float: left;
   a {
       color: #9a3b91;
       float: left;
+   }
   }
 }
 
