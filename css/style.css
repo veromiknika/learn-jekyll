@@ -32,6 +32,7 @@ header {
     float: right;
     position: absolute;
      text-align:right; 
+    margin-bottom: 10px;
 }
 
 
@@ -237,6 +238,7 @@ nav {
   	float: right;
 	font-family: 'Proxima Nova', Helvetica, Arial, sans-serif;
 	font-size: 25px;
+    margin-bottom: 20px;
 
   @include mobile {
     	margin-top: 9px;
