@@ -4,7 +4,7 @@ title: O projektu
 ---
 
 ## O projektu
-
+<br><br><br>
 
 ### Naše cíle
 
