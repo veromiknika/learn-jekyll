@@ -31,8 +31,9 @@ header {
 	color: #6a2162;
     float: right;
     position: absolute;
-     text-align:right; 
+    text-align:right; 
     margin-bottom: 10px;
+    right: 10%;
 }
 
 
@@ -239,6 +240,7 @@ nav {
 	font-family: 'Proxima Nova', Helvetica, Arial, sans-serif;
 	font-size: 25px;
     margin-bottom: 20px;
+    right: 10%;
 
   @include mobile {
     	margin-top: 9px;
