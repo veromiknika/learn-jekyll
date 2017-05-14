@@ -239,6 +239,7 @@ nav {
   	float: right;
 	font-family: 'Proxima Nova', Helvetica, Arial, sans-serif;
 	font-size: 25px;
+    background: #6a2162;
 
   @include mobile {
     	margin-top: 9px;
@@ -247,7 +248,8 @@ nav {
   }
 
   a {
-    	margin-right: 20px;
+    	margin-left: 20px;
+        float: right;
     	color: #000;
     	text-align: right;
     	font-weight: 300;
