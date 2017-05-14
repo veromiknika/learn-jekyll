@@ -23,7 +23,17 @@ body {
 	font-family: 'Proxima Nova', Helvetica, Arial, sans-serif;
 	color: #000000;
 	overflow: auto;
+    left: 10%;
 }
+
+header {
+	font-family: 'Proxima Nova', Helvetica, Arial, sans-serif;
+	color: #6a2162;
+    float: right;
+    position: absolute;
+     text-align:right; 
+}
+
 
 .container {
 	margin: 0 auto;
