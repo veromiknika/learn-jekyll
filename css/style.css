@@ -45,17 +45,11 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-
-
 h1 {
   font-size: 30px;
-  header { 
-      color: #9a3b91;
-      float: left;
   a {
       color: #9a3b91;
       float: left;
-   }
   }
 }
 
@@ -102,10 +96,6 @@ ol {
 
 ol ul, ul ol, ul ul, ol ol {
   margin: 0;
-}
-
-ul ul, ol ul {
-  list-style-type: circle;
 }
 
 em, i {
@@ -245,7 +235,6 @@ nav {
   	float: right;
 	font-family: 'Proxima Nova', Helvetica, Arial, sans-serif;
 	font-size: 25px;
-    background: #6a2162;
 
   @include mobile {
     	margin-top: 9px;
