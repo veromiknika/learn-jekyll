@@ -4,7 +4,6 @@ title: Domů
 ---
 
 # Vítejte
-
 v Najt Vejl
 
 ## Posty
@@ -17,12 +16,3 @@ v Najt Vejl
   {% endfor %}
 </ul>
 
-## Stránky
-
-<ul>
-  {% for page in site.pages %}
-    <li>
-      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>

@@ -5,7 +5,6 @@ title: O projektu
 
 ## O projektu
 
----
 
 ### Naše cíle
 
