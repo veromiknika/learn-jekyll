@@ -8,7 +8,7 @@ tags:
 ---
 
 
-![Joseph Fink](/learn-jekyll/images/joseph.png)
+![Joseph Fink](/learn-jekyll/images/joseph.jpg)
 <br>
 Joseph Fink je spoluzakladateľom nakladateľstva Commonplace Books a spoluautorom Vitajte v Night Vale. Je spisovateľ, editor a dáva dokopy niekoľko publikácií, ako napríklad: _What It Means To Be A Grown-Up_ a _The Untold Stories Of H.P. Lovecraft_. Tiež prispieval do [Something Awful](http://www.somethingawful.com/). Fink býval v Kalifornii, no v súčasnosti žije v Brooklyne. Práve jeho hlas môžeme počuť pred začiatkom každej epizódy. Keď ho oznamuje náhodou niekto iný, predstiera, že je ním - "skutočným" Josephom Finkom. V jeho ďalšom podcaste _Alice Isn't Dead_, je rozprávačom príbehu.
 <br>
